@@ -9,16 +9,6 @@ z0  z1  ... zn
 """
 import math
 
-def make_bezier():
-    pass
-
-def make_hermite():
-    pass
-
-def generate_curve_coefs( p0, p1, p2, p3, t ):
-    pass
-
-
 def make_translate( x, y, z ):
     t = new_matrix()
     ident(t)
